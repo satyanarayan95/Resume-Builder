@@ -3,12 +3,13 @@ import 'firebase/firestore';
 import 'firebase/auth';
 // Initialize Firebase
 let fbObj = {
-    apiKey: "AIzaSyAmzELW9wLnRhnHb07pcC_lwLIG-V-TPWs",
-    authDomain: "resume-builder-8b5c5.firebaseapp.com",
-    projectId: "resume-builder-8b5c5",
-    storageBucket: "resume-builder-8b5c5.appspot.com",
-    messagingSenderId: "387539545907",
-    appId: "1:387539545907:web:77c16007e1e45b15fe9846"
+    apiKey: "AIzaSyCNBORCvNqBXXGeY9AaV3S51Rf1_-TOdig",
+    authDomain: "resume-builder-cb251.firebaseapp.com",
+    projectId: "resume-builder-cb251",
+    storageBucket: "resume-builder-cb251.appspot.com",
+    messagingSenderId: "184174211145",
+    appId: "1:184174211145:web:8768335260e0e362dbcf98",
+    measurementId: "G-CQ0NK5G71N"
 }
 firebase.initializeApp(fbObj);
 export default firebase;
